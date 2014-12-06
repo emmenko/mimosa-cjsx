@@ -8,10 +8,10 @@
     "email": "mtscout6@gmail.com",
     "url": "http://softwarebymatt.com"
   }],
-  "homepage": "https://github.com/mtscout6/mimosa-cjsx",
+  "homepage": "https://github.com/emmenko/mimosa-cjsx",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mtscout6/mimosa-cjsx"
+    "url": "https://github.com/emmenko/mimosa-cjsx"
   },
   "keywords": [
     "coffee",
@@ -23,7 +23,7 @@
     "react"
   ],
   "dependencies": {
-    "coffee-react": "^0.1.1"
+    "coffee-react": "2.x"
   },
   "license": "MIT",
   "main": "./src",
